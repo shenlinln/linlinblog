@@ -1,0 +1,12 @@
+/*用户中心(所有页面)公共 头部 CSS*/
+body{background:#fafafa;}
+.top_bar{width:100%;height:35px;background:#666;padding-top:5px;}
+.top_bar .topbar_main{width:1060px;height:35px;margin:0 auto;color:#fff;font-size:13px;}
+.top_bar a{color:#fff;font-size:13px;}
+.top_bar .topbar_main .logo{width:230px;height:35px;float:left;}
+.top_bar .topbar_main .sp1{width:260px;height:35px;margin-left:30px;float:left;line-height:2.5;}
+.top_bar .topbar_main .sp2{width:300px;height:35px;float:right;text-align: right;line-height: 30px;}
+.top_bar .topbar_main .sp2 a{font-size:13px;font-family:微软雅黑;text-decoration:none;color: #fff}
+
+.top{width:1052px;font-size:10pt;color:#999;height:30px;margin:0 auto;border:1px solid #ddd;margin-top:6px;background:#f6f5f5;padding-left:8px;line-height: 28px;border-radius: 10px;}
+.top a{color:#999;}
