@@ -71,11 +71,11 @@
 .about li { width: 25%; margin: 15px 0 0; float: left; }
 .about li a { color: #747F8C; width: 100%; text-align: center; padding-top: 40px; float: left; }
 .about .rss { background: url(../images/ico_04.png) no-repeat center center; background-size: 40px }
-.about .rss:hover { color: #000; background: url(/web/images/ico_04_1.jpg) no-repeat center center; background-size: 40px }
+.about .rss:hover { color: #000; background: url(/images/ico_04_1.jpg) no-repeat center center; background-size: 40px }
 .about .xlwb { background: url(../images/ico_05.png) no-repeat scroll center center; background-size: 40px }
-.about .xlwb:hover { color: #000; background: url(/web/images/ico_05_1.jpg) no-repeat center center; background-size: 40px }
+.about .xlwb:hover { color: #000; background: url(/images/ico_05_1.jpg) no-repeat center center; background-size: 40px }
 .about .wx { background: url(../images/ico_07.png) no-repeat center center; background-size: 40px }
-.about .wx:hover { color: #000; background: url(/web/images/ico_07_1.jpg) no-repeat center center; background-size: 40px }
+.about .wx:hover { color: #000; background: url(/images/ico_07_1.jpg) no-repeat center center; background-size: 40px }
 .about .wxpic { position: relative }
 .about .wxpic img { display: none; position: absolute; bottom: 55px; right: -10px; width: 100px; }
 .about .wxpic:hover img { display: block; border: #ddd 5px solid }
